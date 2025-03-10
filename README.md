@@ -48,9 +48,6 @@ Feel free to connect with me! 🤝
   <a href="https://github.com/luisdinicco">
     <img src="https://github-readme-stats.vercel.app/api?username=luisdinicco&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/luisdinicco">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisdinicco&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
 </div>
 
 <h2>💻 Top Languages:</h2>
