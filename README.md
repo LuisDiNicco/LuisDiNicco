@@ -1,19 +1,28 @@
 <h1 align="center"><b>👋 Hi, Welcome to my Github Profile! I'm Luis Di Nicco </b></h1>
 
 <p align="center">
+  <b>Computer Engineering Student @UNLaM | Backend Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-demetrio-di-nicco"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:diniccoluis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Bienvenida" width="400px">
 </p>
 
 ## 👨‍💻 About Me:
 
-Hi, I'm **Luis** from **Argentina**! I'm currently in the **final stage** of the **Computer Engineering curriculum** at the **National University of La Matanza**. I’m passionate about **programming** and love how it allows me to solve real-world problems with creativity and logic.
+Hi, I'm **Luis**, a **Backend Developer** with a focus on building reliable server-side applications. I am currently in my **final year of Computer Engineering** at the **National University of La Matanza (UNLaM)**.
 
-* 🧑‍💻 **Programmer at Heart**: I’ve always had a strong passion for coding, and I believe that technology is the key to shaping the future.
-* 🌱 **Lifelong Learner**: I’m constantly learning new things, whether it’s through university courses, online tutorials, or exploring new programming languages and frameworks.
-* 🚀 **Always Improving**: I enjoy tackling new challenges and pushing my limits. Every project I work on is an opportunity to learn something new.
-* 🌍 **English Skills**: I have the First Certificate (B2 level) in English, which helps me communicate and understand technical content.
+* 💼 **Backend Developer**: I’ve been working in the industry for the past few months, applying my knowledge to real-world projects and learning something new every day.
+* 🎓 **Advanced Engineering Student**: Currently finishing my degree, which gives me a strong theoretical and analytical foundation for solving complex problems.
+* 🛠️ **Tech Focus**: I mainly work with **TypeScript** and **NestJS**, always striving for clean code and good practices.
+* 🌍 **English Skills**: I hold the **B2 First Certificate**, so I'm comfortable communicating and reading technical documentation in English.
 
-Feel free to connect with me! 🤝
+I'm a firm believer that being a good engineer is about constant growth and humility. Feel free to connect! 🤝
 
 ---
 
